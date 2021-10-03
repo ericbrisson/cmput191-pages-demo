@@ -1,3 +1,3 @@
 # cmput191-pages-demo
 
-Welcome to my page!
+Welcome to my page!Thanks!
